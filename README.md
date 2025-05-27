@@ -56,5 +56,5 @@ Pillow
 
 ## Colab Notebook 
 https://colab.research.google.com/drive/1EnQD6pphgO-aLfzWErOIfRyD_jwTs2qk?usp=sharing
-##
+## Presentation
 https://www.canva.com/design/DAGonJUSh48/2eTKYpmf1U2idg5ZXYEw6A/view?utm_content=DAGonJUSh48&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc24df45ad0
