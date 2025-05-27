@@ -9,13 +9,13 @@ A deep learning project that uses Convolutional Neural Networks (CNNs) to detect
 
 ## 📂 Project Structure
 
-brain-tumor-detection/
-├── data/
-│ ├── train/
-│ ├── val/
-│ └── test/
-├── notebook.ipynb
-├── README.md
+brain-tumor-detection/<br>
+├── data/<br>
+│ ├── train/<br>
+│ ├── val/<br>
+│ └── test/<br>
+├── notebook.ipynb<br>
+├── README.md<br>
 
 
 ---
@@ -36,6 +36,8 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+```
 
 
 Required libraries include:
