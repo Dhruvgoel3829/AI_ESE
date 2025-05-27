@@ -54,3 +54,5 @@ scikit-learn
 
 Pillow
 
+## Colab Notebook 
+https://colab.research.google.com/drive/1EnQD6pphgO-aLfzWErOIfRyD_jwTs2qk?usp=sharing
